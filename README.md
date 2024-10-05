@@ -1,6 +1,6 @@
 # 💫 About Me:
-I'm currently working on Deep Learning and Generative AI
-I'm presently at Amrita School of Computing Amritapuri
+-I'm currently working on Deep Learning and Generative AI
+-I'm presently at Amrita School of Computing Amritapuri
 
 
 ## 🌐 Socials:
